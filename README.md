@@ -1,4 +1,8 @@
- # DIPT_EX_05_Record-Implementation-of-Filters
+# DIPT_EX_05_Record-Implementation-of-Filters
+
+# Name : TAMIZHSELVAN B
+
+# Reg.No : 212223230225
 
 ## Aim
 To implement filters for smoothing and sharpening images in the spatial domain using Python and OpenCV.
