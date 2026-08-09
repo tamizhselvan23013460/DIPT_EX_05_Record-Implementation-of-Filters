@@ -137,32 +137,40 @@ plt.title('Output Image ( Laplacian_filter)')
 ## OUTPUT :
 
 ### Convolution in OpenCV :
-<img width="257" height="115" alt="image" src="https://github.com/user-attachments/assets/05ce3f9f-2040-4ed9-83a2-fc3daf3148df" />
+<img width="277" height="282" alt="image" src="https://github.com/user-attachments/assets/ff690d05-a60c-4f39-94b2-9ddc78bcee64" />
+
 
 ### Convolution :
-<img width="583" height="716" alt="image" src="https://github.com/user-attachments/assets/8e093435-267b-46f8-a7e5-bf379d67f0ed" />
+<img width="261" height="278" alt="image" src="https://github.com/user-attachments/assets/dcc810d2-e78b-494a-bf8a-4a7fc1a9b1f6" />
+
 
 ## Smoothing filter :
 ### Averaging Filter :
-<img width="655" height="781" alt="image" src="https://github.com/user-attachments/assets/5d023f00-d1ed-42a7-a08c-8b886abb3340" />
+<img width="252" height="575" alt="image" src="https://github.com/user-attachments/assets/ef7759dc-ee4a-4984-9731-08e6cf74a0bc" />
+
 
 ### Weighted Averaging Filter (custom kernel) :
-<img width="642" height="778" alt="image" src="https://github.com/user-attachments/assets/04d8adb9-6e3f-4001-ace2-4209c0936b86" />
+<img width="272" height="562" alt="image" src="https://github.com/user-attachments/assets/25fba579-2f60-4c2d-9673-ad189ef7cac7" />
 
 
 ### Gaussian Filter :
-<img width="641" height="787" alt="image" src="https://github.com/user-attachments/assets/f27797e9-fb1b-4943-a725-4bdb709a77db" />
+<img width="275" height="565" alt="image" src="https://github.com/user-attachments/assets/7e3e9e1c-7a16-4c73-8f60-f62076578b1f" />
+
 
 ### Median Filter :
-<img width="663" height="772" alt="image" src="https://github.com/user-attachments/assets/7544ee58-32b6-4fde-bb86-61f25106ff66" />
+<img width="257" height="565" alt="image" src="https://github.com/user-attachments/assets/9b9efe83-7213-476a-8625-baa0a92f8f10" />
+
 
 
 ## Sharpening Filters :
 ### Laplacian Kernel (Manual Kernel) :
-<img width="627" height="807" alt="image" src="https://github.com/user-attachments/assets/650f3290-76df-4adb-9ab6-433b5e44be3b" />
+<img width="372" height="766" alt="image" src="https://github.com/user-attachments/assets/dfc5be59-61c9-4c07-a0ba-c8744c781c54" />
+
+
 
 ### Laplacian Operator (OpenCV built-in) :
-<img width="480" height="872" alt="image" src="https://github.com/user-attachments/assets/e961bc0f-e0b8-4599-9d42-bebcf51f7446" />
+<img width="272" height="850" alt="image" src="https://github.com/user-attachments/assets/91a81f2c-dd97-4915-8346-0e2e7cf45248" />
+
 
 
 ## RESULT:
